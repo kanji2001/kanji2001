@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23bfff&size=30&font=Poppins+Sans+Serif&center=true&lines=👋+Hey!+I'm+Kanji+Sonagara;A+Full-Stack+Developer+who+loves+building+things!)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanji2001&label=Profile%20views&color=0e75b6&style=flat" alt="kanji2001" /> </p>
 
@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/kanjisonagara" target="_blank">
+<a href="https://www.linkedin.com/in/kanji-sonagara-50a744283" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="mailto:kanjisonagara2001@gmail.com" target="_blank">
